@@ -40,7 +40,7 @@ body a:focus {
 }
 /*-- banner --*/ 
 .w3-banner-left{
-    background: url(../images/r2.jpg)no-repeat 0px 0px;
+    /*background: url(http://drive.google.com/uc?export=view&id=1AoA5Rnrvf7H5MsxJrtTn6xlYhu_HyJGU)no-repeat 0px 0px;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -48,6 +48,7 @@ body a:focus {
     background-size: cover;
     min-height: 550px;
 }
+
 
 	.w3-banner-right{
     background: url(../images/ab11.jpg)no-repeat 0px 0px;
