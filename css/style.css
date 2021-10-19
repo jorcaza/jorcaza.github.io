@@ -57,7 +57,7 @@ body a:focus {
     -o-background-size: cover;
     -ms-background-size: cover;
     background-size: cover;
-    min-height: 600px;
+    min-height: 650px;
 }
 .w3-banner-left_txt h3 {
     font-size: 5em;
