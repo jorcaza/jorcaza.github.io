@@ -42,6 +42,7 @@ body a:focus {
 /*-- banner --*/ 
 .w3-banner-left{
     /*background: url(http://drive.google.com/uc?export=view&id=1AoA5Rnrvf7H5MsxJrtTn6xlYhu_HyJGU)no-repeat 0px 0px;*/
+    /* background: url(../images/ab11.jpg)no-repeat 0px 0px; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -52,7 +53,7 @@ body a:focus {
 
 
 	.w3-banner-right{
-    background: url(../images/ab11.jpg)no-repeat 0px 0px;
+    background: linear-gradient(rgba(2, 2, 2, 0.3), rgba(14, 13, 13, 0.3)),url(../images/f2.jpg)no-repeat 0px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -60,6 +61,12 @@ body a:focus {
     background-size: cover;
     min-height: 992px;
 }
+
+
+
+
+
+
 .w3-banner-left_txt h3 {
     font-size: 5em;
     color: #fff;
