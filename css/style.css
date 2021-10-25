@@ -69,8 +69,8 @@ body a:focus {
 
 .w3-banner-left_txt h3 {
     font-size: 5em;
-    color: #fff;
-    /* color: #6CB670; */
+    /* color: #fff; */
+    color: #6CB670;
     /* margin: 0 auto; */
     letter-spacing: 3px;
 	text-align: center;
@@ -80,8 +80,8 @@ body a:focus {
 	}
 .w3-banner-left_txt p {
     font-size: 3em;
-    /* color: #fff; */
-    color: #6CB670;
+    color: #fff;
+    /* color: #6CB670; */
     text-align: center;
     font-weight: 700;
     letter-spacing: 3px;
